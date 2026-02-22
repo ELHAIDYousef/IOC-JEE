@@ -1,8 +1,9 @@
 package net.elhaid.dao;
 
 /**
-    @author ELHAID Yousef
-**/public class DaoImpl implements IDao {
+ * @author ELHAID Yousef
+ **/
+public class DaoImpl implements IDao {
 
     @Override
     public double getData(){
