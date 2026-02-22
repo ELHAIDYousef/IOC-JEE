@@ -1,8 +1,11 @@
 package net.elhaid.dao;
 
+import org.springframework.stereotype.Component;
+
 /**
  * @author ELHAID Yousef
  **/
+@Component("d")
 public class DaoImpl implements IDao {
 
     @Override
